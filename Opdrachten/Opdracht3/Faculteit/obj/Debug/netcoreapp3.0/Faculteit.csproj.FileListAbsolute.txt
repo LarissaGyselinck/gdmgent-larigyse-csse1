@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\bin\Debug\netcoreapp3.0\Faculteit.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\bin\Debug\netcoreapp3.0\Faculteit.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\bin\Debug\netcoreapp3.0\Faculteit.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\bin\Debug\netcoreapp3.0\Faculteit.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\bin\Debug\netcoreapp3.0\Faculteit.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\bin\Debug\netcoreapp3.0\Faculteit.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\obj\Debug\netcoreapp3.0\Faculteit.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\obj\Debug\netcoreapp3.0\Faculteit.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\obj\Debug\netcoreapp3.0\Faculteit.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\obj\Debug\netcoreapp3.0\Faculteit.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht3\Faculteit\obj\Debug\netcoreapp3.0\Faculteit.pdb
