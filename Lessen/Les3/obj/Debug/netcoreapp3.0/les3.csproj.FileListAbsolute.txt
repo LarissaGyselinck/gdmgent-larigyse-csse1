@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\bin\Debug\netcoreapp3.0\les3.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\bin\Debug\netcoreapp3.0\les3.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\bin\Debug\netcoreapp3.0\les3.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\bin\Debug\netcoreapp3.0\les3.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\bin\Debug\netcoreapp3.0\les3.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\bin\Debug\netcoreapp3.0\les3.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\obj\Debug\netcoreapp3.0\les3.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\obj\Debug\netcoreapp3.0\les3.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\obj\Debug\netcoreapp3.0\les3.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\obj\Debug\netcoreapp3.0\les3.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\les3\obj\Debug\netcoreapp3.0\les3.pdb

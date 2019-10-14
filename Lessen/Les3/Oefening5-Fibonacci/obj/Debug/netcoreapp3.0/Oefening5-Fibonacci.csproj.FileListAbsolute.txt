@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\obj\Debug\netcoreapp3.0\Oefening5-Fibonacci.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\obj\Debug\netcoreapp3.0\Oefening5-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\obj\Debug\netcoreapp3.0\Oefening5-Fibonacci.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\bin\Debug\netcoreapp3.0\Oefening5-Fibonacci.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\bin\Debug\netcoreapp3.0\Oefening5-Fibonacci.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\bin\Debug\netcoreapp3.0\Oefening5-Fibonacci.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\bin\Debug\netcoreapp3.0\Oefening5-Fibonacci.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\bin\Debug\netcoreapp3.0\Oefening5-Fibonacci.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\bin\Debug\netcoreapp3.0\Oefening5-Fibonacci.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\obj\Debug\netcoreapp3.0\Oefening5-Fibonacci.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening5-Fibonacci\obj\Debug\netcoreapp3.0\Oefening5-Fibonacci.pdb
