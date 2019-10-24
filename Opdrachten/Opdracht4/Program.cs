@@ -22,7 +22,7 @@ namespace Opdracht4
         }
         static void Delen(int getal1, int getal2){
             Console.WriteLine("Delen");
-            int result4 = getal1 / getal2;
+            double result4 = (double) getal1 / getal2;
             Console.WriteLine(result4);
         }
         static void Faculteit(int faculteit){
