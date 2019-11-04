@@ -121,6 +121,7 @@ namespace Opdracht5
         static string GenereerString(string input, int lengte){
             return input.Substring(0, lengte);
         }
+        // voor docent voornaam 4, familienaam 2, voor student voornaam 4, familienaam 4
         static string GenereerAccount(string type, string voornaam, string familienaam){
             SchrijfLog("Genereer account...");
             string account = "";
