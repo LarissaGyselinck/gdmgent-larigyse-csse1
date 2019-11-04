@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\bin\Debug\netcoreapp3.0\Account.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\bin\Debug\netcoreapp3.0\Account.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\bin\Debug\netcoreapp3.0\Account.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\bin\Debug\netcoreapp3.0\Account.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\bin\Debug\netcoreapp3.0\Account.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\bin\Debug\netcoreapp3.0\Account.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\obj\Debug\netcoreapp3.0\Account.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\obj\Debug\netcoreapp3.0\Account.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\obj\Debug\netcoreapp3.0\Account.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\obj\Debug\netcoreapp3.0\Account.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Account\obj\Debug\netcoreapp3.0\Account.pdb

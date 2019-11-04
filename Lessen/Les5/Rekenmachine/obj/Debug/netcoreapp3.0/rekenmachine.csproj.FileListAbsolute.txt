@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\bin\Debug\netcoreapp3.0\rekenmachine.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\bin\Debug\netcoreapp3.0\rekenmachine.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\bin\Debug\netcoreapp3.0\rekenmachine.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\bin\Debug\netcoreapp3.0\rekenmachine.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\bin\Debug\netcoreapp3.0\rekenmachine.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\bin\Debug\netcoreapp3.0\rekenmachine.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\obj\Debug\netcoreapp3.0\rekenmachine.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\obj\Debug\netcoreapp3.0\rekenmachine.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\obj\Debug\netcoreapp3.0\rekenmachine.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\obj\Debug\netcoreapp3.0\rekenmachine.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Rekenmachine\obj\Debug\netcoreapp3.0\rekenmachine.pdb

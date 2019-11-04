@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\bin\Debug\netcoreapp3.0\Lotto.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\bin\Debug\netcoreapp3.0\Lotto.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\bin\Debug\netcoreapp3.0\Lotto.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\bin\Debug\netcoreapp3.0\Lotto.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\bin\Debug\netcoreapp3.0\Lotto.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\bin\Debug\netcoreapp3.0\Lotto.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\obj\Debug\netcoreapp3.0\Lotto.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\obj\Debug\netcoreapp3.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\obj\Debug\netcoreapp3.0\Lotto.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\obj\Debug\netcoreapp3.0\Lotto.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les5\Lotto\obj\Debug\netcoreapp3.0\Lotto.pdb

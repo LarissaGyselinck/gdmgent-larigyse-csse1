@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\bin\Debug\netcoreapp3.0\Oefening6.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\bin\Debug\netcoreapp3.0\Oefening6.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\bin\Debug\netcoreapp3.0\Oefening6.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\bin\Debug\netcoreapp3.0\Oefening6.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\bin\Debug\netcoreapp3.0\Oefening6.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\bin\Debug\netcoreapp3.0\Oefening6.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\obj\Debug\netcoreapp3.0\Oefening6.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\obj\Debug\netcoreapp3.0\Oefening6.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\obj\Debug\netcoreapp3.0\Oefening6.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\obj\Debug\netcoreapp3.0\Oefening6.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Lessen\Les3\Oefening6\obj\Debug\netcoreapp3.0\Oefening6.pdb
