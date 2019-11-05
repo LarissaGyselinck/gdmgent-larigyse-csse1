@@ -88,8 +88,7 @@ namespace Opdracht5
             SchrijfLog("Lottotrekking...");
             for(int i = 0; i < 6; i++){
                 SchrijfLog(GenereerWillekeurigeGetallen(1,45));
-                // NOG OMZETTEN NAAR 5000
-                Thread.Sleep(500);
+                Thread.Sleep(5000);
             }
         }
         static void Euromillions(){
@@ -108,14 +107,12 @@ namespace Opdracht5
             SchrijfLog("De nummers: ");
             for(int j = 0; j < 5; j++){
                 SchrijfLog(GenereerWillekeurigeGetallen(1,50));
-                // NOG OMZETTEN NAAR 2000
-                Thread.Sleep(200);
+                Thread.Sleep(2000);
             }
             SchrijfLog("De sterren: ");
             for(int k = 0; k < 2; k++){
                 SchrijfLog(GenereerWillekeurigeGetallen(1,12));
-                // NOG OMZETTEN NAAR 2000
-                Thread.Sleep(200);
+                Thread.Sleep(2000);
             }
         }
         static string GenereerString(string input, int lengte){
