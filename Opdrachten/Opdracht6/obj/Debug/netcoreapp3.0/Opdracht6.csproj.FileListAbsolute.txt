@@ -1,0 +1,3 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht6\obj\Debug\netcoreapp3.0\Opdracht6.AssemblyInfo.cs
