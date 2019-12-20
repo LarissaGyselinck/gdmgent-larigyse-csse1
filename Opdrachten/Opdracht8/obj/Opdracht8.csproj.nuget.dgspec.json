@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\laris\\Repos\\gdmgent-larigyse-csse1\\Opdrachten\\Opdracht8\\Opdracht8.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\laris\\Repos\\gdmgent-larigyse-csse1\\Opdrachten\\Opdracht8\\Opdracht8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laris\\Repos\\gdmgent-larigyse-csse1\\Opdrachten\\Opdracht8\\Opdracht8.csproj",
+        "projectName": "Opdracht8",
+        "projectPath": "C:\\Users\\laris\\Repos\\gdmgent-larigyse-csse1\\Opdrachten\\Opdracht8\\Opdracht8.csproj",
+        "packagesPath": "C:\\Users\\laris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laris\\Repos\\gdmgent-larigyse-csse1\\Opdrachten\\Opdracht8\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

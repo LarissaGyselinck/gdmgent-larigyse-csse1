@@ -1,0 +1,11 @@
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\bin\Debug\netcoreapp3.0\Opdracht8.exe
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\bin\Debug\netcoreapp3.0\Opdracht8.deps.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\bin\Debug\netcoreapp3.0\Opdracht8.runtimeconfig.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\bin\Debug\netcoreapp3.0\Opdracht8.runtimeconfig.dev.json
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\bin\Debug\netcoreapp3.0\Opdracht8.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\bin\Debug\netcoreapp3.0\Opdracht8.pdb
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\obj\Debug\netcoreapp3.0\Opdracht8.csprojAssemblyReference.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\obj\Debug\netcoreapp3.0\Opdracht8.AssemblyInfoInputs.cache
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\obj\Debug\netcoreapp3.0\Opdracht8.AssemblyInfo.cs
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\obj\Debug\netcoreapp3.0\Opdracht8.dll
+C:\Users\laris\Repos\gdmgent-larigyse-csse1\Opdrachten\Opdracht8\obj\Debug\netcoreapp3.0\Opdracht8.pdb
